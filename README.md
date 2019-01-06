@@ -41,3 +41,7 @@ As You can see this method takes 3 extra values to make a toast.
 <img src="https://drive.google.com/uc?id=1bcjKQMFSUVagwAKH6vOZMnrdLdvsFY4W"/>
 </p>
 
+## How to contribute?
+1. Fork the project.
+2. Make required changes and commit.
+3. Generate pull request. Mention all the required description regarding changes you made. Happy coding.:-)
