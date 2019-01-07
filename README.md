@@ -35,6 +35,8 @@ As You can see this method takes 3 extra values to make a toast.
 
 3.  It takes drawable Int to display icon in Toast.
 
+<br><b>Just Type ```null``` if you don't want to modify above values</b>
+
 <b>Please call `show()` method to display the toast.</b><br><br>
 
 <p align="center">
