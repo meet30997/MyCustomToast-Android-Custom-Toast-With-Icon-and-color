@@ -1,5 +1,8 @@
 # MyCustomToast-Android-Custom-Toast-With-Icon-and-color
 
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-MyCustomToast--Android--Custom--Toast--With--Icon--and--color-green.svg?style=flat )]( https://android-arsenal.com/details/1/7433 )
+
+
 A simple way to customize your toast with different colors and icon!
 <br>
 
@@ -42,6 +45,8 @@ As You can see this method takes 3 extra values to make a toast.
 <p align="center">
 <img src="https://drive.google.com/uc?id=1bcjKQMFSUVagwAKH6vOZMnrdLdvsFY4W"/>
 </p>
+
+
 
 ## How to contribute?
 1. Fork the project.
